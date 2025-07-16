@@ -1,7 +1,6 @@
-ipykernel
-python-dotenv
 numpy
+openpyxl
 pandas
-matplotlib
-seaborn
-statsmodels
+pyarrow
+pyjanitor
+ipykernel
